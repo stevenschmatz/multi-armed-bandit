@@ -1,0 +1,3 @@
+[submodule "gym-bandits"]
+	path = gym-bandits
+	url = https://github.com/JKCooper2/gym-bandits.git
