@@ -14,6 +14,8 @@ In this strategy, each action is first chosen once, and then further actions are
 
 ![Upper confidence bounds equation](figures/equation.png)
 
+Where mu_i corresponds to the sample mean for action i, n_i corresponds to the count for action i, and t is the timestep.
+
 [It has been shown](http://homes.dsi.unimi.it/~cesabian/Pubblicazioni/ml-02.pdf) that this strategy yields an optimal solution to the problem.
 
 ## Results
