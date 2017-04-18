@@ -1,5 +1,5 @@
 '''
-multi_armed_bandit.py
+multi-armed-bandit.py
 @stevenschmatz
 18 April 2017
 '''
